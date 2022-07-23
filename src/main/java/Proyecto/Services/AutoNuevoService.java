@@ -16,5 +16,12 @@ public interface AutoNuevoService {
     public AutoNuevo getAutoNuevo(AutoNuevo autonuevo);
 
     public AutoNuevo find(Long id);
-    
+
+    public AutoNuevo findByBrand(AutoNuevo autonuevo);
+
+    public AutoNuevo findByModel(AutoNuevo autonuevo);
+
+    public AutoNuevo findByYear(AutoNuevo autonuevo);
+
+    public AutoNuevo findByColor(AutoNuevo autonuevo);
 }
