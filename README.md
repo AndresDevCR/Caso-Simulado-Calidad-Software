@@ -1,3 +1,3 @@
 # Caso-Simulado-Calidad-Software
-
-## Para su revision debera ir a hacia la carpeta src/test/java/Proyecto/Services ahi se encuantran las clases de cada Estudiante.
+## Se realizaron 4 test unitarios (1 por estudiante) para probar una parte en específico del código.
+## La ruta para su revisión es: src/test/java/Proyecto/Services ahí se encuentran los test que realizó cada estudiante.
