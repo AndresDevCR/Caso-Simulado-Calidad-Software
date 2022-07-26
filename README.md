@@ -12,14 +12,13 @@
 
 ## 3. Escogemos la versión que necesitemos y ponemos en nuestro pom.xml del proyecto la siguiente dependencia:
 
-<!--
-https://mvnrepository.com/artifact/org.mocki
-to/mockito-core -->
-<dependency>
-<groupId>org.mockito</groupId>
-<artifactId>mockito-core</artifactId>
-<version>4.6.1</version>
-<scope>test</scope>
-</dependency>
+### <!--
+### https://mvnrepository.com/artifact/org.mockito/mockito-core -->
+### <dependency>
+### <groupId>org.mockito</groupId>
+### <artifactId>mockito-core</artifactId>
+### <version>4.6.1</version>
+### <scope>test</scope>
+### </dependency>
 
 ## 4. Al hacer esto ya el proyecto está listo para realizar las pruebas unitarias y los mocks utilizando Mockito.
